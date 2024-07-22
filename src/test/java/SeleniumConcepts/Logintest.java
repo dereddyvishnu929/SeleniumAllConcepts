@@ -23,7 +23,7 @@ public class Logintest {
 		3.provide username : admin
 		4.provide password : admin123
 		5.click on login button
-		6.verify the titl of dashboard page
+		6.verify the title of dashboard page
 		   expected title : OrangrHRM
 		7.close browser
 		*/
@@ -66,7 +66,6 @@ public class Logintest {
 		//7.close browser*/
 		driver.quit();
 		
-
 	}
 
 }
